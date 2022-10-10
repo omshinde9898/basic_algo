@@ -1,0 +1,17 @@
+Search Algorithms:
+    Linear Search
+    Binary Search
+    Fibonacci Search
+    Sentinel Search
+
+Sorting Algorithms:
+    Insertion Sort
+    Bubble Sort
+    Selection Sort
+    Quick Sort
+    Merge Sort
+    Counting Sort
+    Radix Sort
+    Bucket Sort
+    Shell Sort
+    
